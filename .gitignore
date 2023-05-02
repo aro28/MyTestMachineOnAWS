@@ -1,0 +1,9 @@
+.idea/
+venv/
+media/
+**/__pycache__/**
+/__pycache__/
+db.sqlite3
+Scripts
+Lib
+Include
